@@ -3,9 +3,9 @@ IbI Logic Optimization Algorithm: ILA
 
 This repository contains Python code implementing an optimization algorithm, IbI Logic Optimization Algorithm (ILA). The ILA is an optimization algorithm that is based on the theory of IbI logics. The ILA has several advantages over other optimization algorithms. Here are some of the benefits of using the ILA optimization algorithm:
 
-    		The ILA can monitor the exploration and exploitation phases separately, which allows the user to control the performance of the algorithm and to adjust the parameters as needed.
-    		The ILA is very accurate in determining the optimal solution.
-    		The ILA has a reasonable computation time.
+    The ILA can monitor the exploration and exploitation phases separately, which allows the user to control the performance of the algorithm and to adjust the parameters as needed.
+    The ILA is very accurate in determining the optimal solution.
+    The ILA has a reasonable computation time.
       
 
 Structure:
