@@ -30,7 +30,7 @@ Mirrashid, Masoomeh, and Hosein Naderpour. "Incomprehensible but Intelligible-in
 Requirements:
 
     Python (version 3.8.19)
-    List of required Python libraries: NumPy, sklearn, Matplotlib, warnings
+    List of required Python libraries: NumPy, sklearn, Math, Matplotlib, warnings
 
 
 Contributions: 
