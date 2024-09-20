@@ -18,7 +18,7 @@ Definition of the considered cost function:
 
     Name: Easom
     Best Cost: -1
-    Best Response: (pi,pi)
+    Best Solution: (pi,pi)
     Dimension: 2
 
 
